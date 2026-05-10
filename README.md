@@ -4,7 +4,7 @@ An interactive web application built with Streamlit that leverages the Google Ge
 
 By utilizing the newly supported response_schema configuration in the Gemini API, this tool ensures the Large Language Model (LLM) strictly adheres to a predefined data structure, making it perfect for automated parsing pipelines.
 
-Features
+**✨ Features**
 
 Reliable Structured Output: Uses Pydantic to define an exact JSON schema for the LLM to follow, eliminating hallucinated keys or malformed JSON.
 
