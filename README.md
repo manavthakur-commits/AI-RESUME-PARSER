@@ -1,5 +1,7 @@
 🎯 Project Overview
+
 Problem Statement
+
 Traditional resume parsing systems struggle with:
 
 Inconsistent formatting across different resume templates
