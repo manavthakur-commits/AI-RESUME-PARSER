@@ -23,47 +23,6 @@ Key Features
 ✅ Production Ready: Comprehensive error handling and environment configuration
 ✅ Scalable Architecture: Easily extensible for batch processing and API deployment
 
-🏗️ Architecture
-┌─────────────────┐
-│  User Input     │
-│  (Resume Text)  │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────────────┐
-│  Streamlit Frontend     │
-│  - Input Validation     │
-│  - Session Management   │
-└────────┬────────────────┘
-         │
-         ▼
-┌─────────────────────────┐
-│  Extraction Engine      │
-│  - Prompt Engineering   │
-│  - API Communication    │
-└────────┬────────────────┘
-         │
-         ▼
-┌─────────────────────────┐
-│  Google Gemini API      │
-│  - LLM Processing       │
-│  - Structured Output    │
-└────────┬────────────────┘
-         │
-         ▼
-┌─────────────────────────┐
-│  Pydantic Validation    │
-│  - Schema Enforcement   │
-│  - Type Checking        │
-└────────┬────────────────┘
-         │
-         ▼
-┌─────────────────────────┐
-│  JSON Output            │
-│  - Structured Data      │
-│  - Display & Export     │
-└─────────────────────────┘
-
 🚀 Getting Started
 Prerequisites
 
